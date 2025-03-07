@@ -6,7 +6,7 @@ export default function Home() {
   
   return (
     <>
-      <h1 className="text-2xl font-bold">Hello this is my first next js app!</h1>
+      <h1 className="text-2xl font-bold">Hello this is first next js app!</h1>
       <Hello />
     </>
     
